@@ -1,19 +1,4 @@
 {
-  "name": "Clouds_and_Things_Co",
-  "about": "Обновление ПО часов",
-  "version": "2.8.0",
-  "notes": "Описание в разработке",
-  "builds": 
-  [
-    {
-      "chipFamily": "ESP32-S3",
-      "parts": 
-      [
-        {
-          "path": "https://raw.githubusercontent.com/CloudsAndThings/ThingsClock/main/bin/Retronix.ino.bin",
-          "offset": 0
-        }
-      ]
-    }
-  ]
+  "ver": "2.8.0",
+  "notes": "Описание в разработке"
 }
